@@ -1,6 +1,6 @@
 # Planned Special Events Mobility Analysis
 
-Code supporting the analysis of multimodal travel demand and public transport crowding during planned special events in Washington, DC.
+Example implementation of the analytical framework used to study multimodal travel demand and public transport crowding during planned special events in Washington, DC.
 
 This repository provides an example implementation of the analytical framework
 used to assess the impacts of planned special events on multimodal travel demand.
